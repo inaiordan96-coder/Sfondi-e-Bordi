@@ -1,0 +1,10 @@
+.box{color: rgb(15, 4, 4);;border:groove; background-color: red; padding:50px;margin:100px;border-style:solid;}
+
+.box2{background-image: linear-gradient(to left,yellow,rgb(95, 180, 95),rgb(204, 77, 132) )
+  ;border-width: 100%; border:outset,color(srgb rgb(24, 89, 35) green blue);font-weight:bold; border-style:grove}
+
+h1{text-align: center;background-attachment:scroll;border-style:outset }
+
+.box3{background-position:center;background-attachment:scroll;background-repeat:no-repeat;background-size:cover;
+border-color: blueviolet; color:rgb(66, 3, 87) ;border:outset ; border-style:dotted;padding:50px;margin: 15%;}
+  
